@@ -1,0 +1,13 @@
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Debug\cantact_new.exe.config
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Debug\cantact_new.exe
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Debug\cantact_new.pdb
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.csprojAssemblyReference.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.MainForm.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.Properties.Resources.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.csproj.GenerateResource.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.csproj.CoreCompileInputs.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.exe
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.pdb
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Debug\cantact_new.xml
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.RemoteClientForm.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Debug\cantact_new.VirtualCursorForm.resources

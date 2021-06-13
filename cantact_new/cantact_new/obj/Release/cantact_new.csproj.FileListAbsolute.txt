@@ -1,0 +1,12 @@
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Release\cantact_new.exe.config
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Release\cantact_new.exe
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\bin\Release\cantact_new.pdb
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.csprojAssemblyReference.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.MainForm.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.Properties.Resources.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.RemoteClientForm.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.VirtualCursorForm.resources
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.csproj.GenerateResource.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.csproj.CoreCompileInputs.cache
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.exe
+C:\Users\JongWoo\source\repos\cantact_new\cantact_new\obj\Release\cantact_new.pdb
